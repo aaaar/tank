@@ -74,9 +74,6 @@
 <img width="1860" height="974" alt="image" src="https://github.com/user-attachments/assets/8bdd093a-7b8e-4aee-b400-4f97ff50aed7" />
 
 
-```md
-![游戏截图](./assets/screenshot.png)
-```
 
 ## License
 
